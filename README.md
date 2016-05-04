@@ -1,1 +1,1 @@
-# CSC501-P2-microshell
+ush is a command interpreter with a syntax similar to UNIX C shell, csh
